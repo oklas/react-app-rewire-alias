@@ -1,3 +1,9 @@
+## This package has been renamed to [react-app-alias](https://github.com/oklas/react-app-alias#readme)
+
+* **react-app-rewire-alias** -> **react-app-alias**
+
+It has major release, for easy migration follow this [migration guide](https://github.com/oklas/react-app-alias/blob/master/docs/migration.md)
+
 # Alias solution for craco or rewired create-react-app
 
 This is more than simple alias. This is also a multi-project `src`
