@@ -2,7 +2,9 @@
 
 * **react-app-rewire-alias** -> **react-app-alias**
 
-It has major release, for easy migration follow this [migration guide](https://github.com/oklas/react-app-alias/blob/master/docs/migration.md)
+### Deprecaterd! Use **[react-app-alias](https://github.com/oklas/react-app-alias#readme)** instead.
+
+For easy migration to major release with renaming follow this [migration guide](https://github.com/oklas/react-app-alias/blob/master/docs/migration.md)
 
 # Alias solution for craco or rewired create-react-app
 
